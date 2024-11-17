@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**Sabarna07-tech/Sabarna07-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Hi 👋, I'm Sabarna Saha  
+
+🚀 AI Engineer | Tech Enthusiast | Problem Solver  
+
+- 🌱 I’m currently working on **deep learning models and optimization algorithms**.  
+- 🔭 Ask me about **Pyhton,C++,Machine Learning**.  
+- 📫 How to reach me: **sabarna.saha1308@gmail.com**  
+
+### Connect with me:  
+- [LinkedIn](https://www.linkedin.com/in/sabarnasaha/)  
+- [Twitter](https://x.com/_sabarna_sh)  
+
+
