@@ -18,6 +18,15 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/_sabarna_sh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sabarna.saha1308@gmail.com)
 
+### 📊 GitHub Stats:
+![Sabarna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabarna07-tech&show_icons=true&theme=radical)
+
+### 🔥 Streak Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sabarna07-tech&theme=radical)](https://git.io/streak-stats)
+
+### 💻 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabarna07-tech&layout=compact&theme=radical)
+
 
 ![License](https://img.shields.io/github/license/Sabarna07-tech/Sabarna07-tech)
 ![Coverage](https://img.shields.io/coveralls/github/Sabarna07-tech/Sabarna07-tech)
