@@ -16,4 +16,6 @@
 - [LinkedIn](https://www.linkedin.com/in/sabarnasaha/)  
 - [Twitter](https://x.com/_sabarna_sh)  
 
-
+![License](https://img.shields.io/github/license/Sabarna07-tech/Sabarna07-tech)
+![Coverage](https://img.shields.io/coveralls/github/Sabarna07-tech/Sabarna07-tech)
+![GitHub issues](https://img.shields.io/github/issues/Sabarna07-tech/Sabarna07-tech)
