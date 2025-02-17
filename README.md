@@ -9,7 +9,7 @@
 🚀 AI Engineer | Tech Enthusiast | Problem Solver  
 
 - 🌱 I’m currently working on **deep learning models and optimization algorithms**.  
-- 🔭 Ask me about **Pyhton,C++,Machine Learning**.  
+- 🔭 Ask me about **Python,C++,Machine Learning**.  
 - 📫 How to reach me: **sabarna.saha1308@gmail.com**  
 
 
