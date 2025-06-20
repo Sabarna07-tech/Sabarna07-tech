@@ -55,11 +55,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/images/dp/hmm.png" alt="hmm" width="200">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/images/footer/kolkata.png" alt="KolkataFooter">
-</p>
