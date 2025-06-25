@@ -21,7 +21,7 @@
 
 ---
 
-### 🔥 GitHub Stats
+###  GitHub Stats
 | <img src="https://github-readme-streak-stats.herokuapp.com?user=Sabarna07-tech&theme=radical" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabarna07-tech&layout=compact&theme=radical" /> |
 | --- | --- |
 
