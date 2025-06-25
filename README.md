@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+###  Languages and Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
@@ -52,7 +52,7 @@
 
 ---
 
-### 🧠 LeetCode Stats
+###  LeetCode Stats
 <a href="https://leetcode.com/u/TryExcept/"><img src="https://leetcard.jacoblin.cool/TryExcept?theme=light&font=Happy%20Monkey&ext=heatmap" /></a>
 
 ---
