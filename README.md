@@ -77,8 +77,6 @@ I like problems that live close to the metal — write-ahead logs, skiplists, HN
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sabarna07-tech&theme=react-dark&hide_border=true&area=true)](https://github.com/Sabarna07-tech)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sabarna07-tech&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=8" />
-
 </div>
 
 ---
