@@ -77,7 +77,27 @@ I like problems that live close to the metal — write-ahead logs, skiplists, HN
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sabarna07-tech&theme=react-dark&hide_border=true&area=true)](https://github.com/Sabarna07-tech)
 
+<!-- 🐍 SNAKE — populates after the snake.yml Action runs once (trigger it from the Actions tab) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sabarna07-tech/Sabarna07-tech/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sabarna07-tech/Sabarna07-tech/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Sabarna07-tech/Sabarna07-tech/output/github-snake.svg" />
+</picture>
+
 </div>
+
+<!--
+  ⏱️ WAKATIME — live coding-time tracking. To activate:
+  1. Sign up at https://wakatime.com and install the plugin for your editor (VS Code / JetBrains / Vim).
+  2. Set up athul/waka-readme-stats (a GitHub Action) OR use the simple card below once you have a public profile.
+  Then uncomment this block:
+
+### ⏱️ This week, in code
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=radical&hide_border=true" />
+</div>
+-->
 
 ---
 
