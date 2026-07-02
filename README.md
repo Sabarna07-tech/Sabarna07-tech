@@ -101,6 +101,16 @@ I like problems that live close to the metal — write-ahead logs, skiplists, HN
 
 ---
 
+### 🎧 Now playing
+
+<div align="center">
+
+<img src="https://novatorem-iota-seven-72.vercel.app/api/spotify?background_color=0d1117&border_color=a371f7&show_status=true" alt="Spotify now playing" />
+
+</div>
+
+---
+
 ### 🧮 LeetCode
 
 <div align="center">
