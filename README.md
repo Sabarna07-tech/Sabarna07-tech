@@ -70,10 +70,10 @@ I like problems that live close to the metal — write-ahead logs, skiplists, HN
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sabarna07-tech&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" />
 <img height="170" src="https://streak-stats.demolab.com/?user=Sabarna07-tech&theme=radical&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabarna07-tech&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+<!-- 📊 METRICS — populates after metrics.yml Action runs once (trigger from the Actions tab) -->
+<img width="100%" src="https://raw.githubusercontent.com/Sabarna07-tech/Sabarna07-tech/output/metrics.svg" alt="GitHub metrics dashboard" />
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sabarna07-tech&theme=react-dark&hide_border=true&area=true)](https://github.com/Sabarna07-tech)
 
